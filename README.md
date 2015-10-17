@@ -1,2 +1,2 @@
-# gmaps-route-intersect
+# Google Maps Polygon-Route Intersect
 Determines the point where a route (polyline) exits a given polygon and returns both the in-polygon distance as well as the out-of-polygon distance. Useful for determining region-specific mileages along a route. This specific example determines the cost of medical transportation once a trip crosses the King County border. A live version can be seen [here](http://outofcounty.com).
